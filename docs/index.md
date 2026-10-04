@@ -8,6 +8,16 @@ layout: default
 
 *Ultimo aggiornamento: 4 ottobre 2026 — [Storia e versioni del documento](#appendice-storia-e-versioni-del-documento)*
 
+## Video illustrativi della proposta
+
+- Le nuove linee AMA a L'Aquila: siamo di fronte a una svolta?
+- <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <iframe src="[https://www.youtube.com/embed/XXXXXXXXXXX](https://www.youtube.com/watch?v=SN5JXWVQsdI&list=PLAtZhKhpyfQ8&index=1)"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Indice
 
 - [Scopo e documenti di riferimento](#scopo-e-documenti-di-riferimento)
