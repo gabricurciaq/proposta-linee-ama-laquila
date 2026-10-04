@@ -1,0 +1,16 @@
+# Configurazione del sito GitHub Pages (Jekyll)
+# Guida rapida: modifica i campi qui sotto, poi vai su
+# Settings > Pages del repository e imposta "Deploy from a branch",
+# branch "main", cartella "/docs".
+
+title: "Riorganizzazione linee AMA — proposta aperta"
+description: >-
+  Proposta aperta di riorganizzazione delle linee urbane di trasporto
+  pubblico a L'Aquila (AMA), elaborata con realtà associative del
+  territorio. Licenza CC BY-SA 4.0.
+lang: it
+theme: minima
+
+# Usato da jekyll-seo-tag (incluso automaticamente da GitHub Pages) per
+# generare i meta-tag utili al posizionamento nei motori di ricerca e
+# all'anteprima quando il link viene condiviso sui social.
