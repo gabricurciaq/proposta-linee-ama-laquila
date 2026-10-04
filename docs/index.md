@@ -133,7 +133,7 @@ con 4.000-5.000 abitanti per km², circondata da una rete di frazioni e
 centri minori. Qui le densità scendono sotto i 1.000 abitanti per km².
 
 <img src="media/image1_2.JPG"
-style="width:11.3in;height:4.79in" />
+style="width:10in;height:3in" />
 
 Figura 1. Distribuzione della densità di popolazione nel Comune
 dell’Aquila. (a) L’Aquila e comuni limitrofi, (b) area urbana densa.
