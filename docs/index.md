@@ -10,8 +10,9 @@ layout: default
 
 ## Video illustrativi della proposta
 
-- [Le nuove linee AMA a L'Aquila: siamo di fronte a una svolta?](https://www.youtube.com/watch?v=SN5JXWVQsdI&list=PLAtZhKhpyfQ8&index=1)
-- 
+1. [Le nuove linee AMA a L'Aquila: siamo di fronte a una svolta?](https://www.youtube.com/watch?v=SN5JXWVQsdI&list=PLAtZhKhpyfQ8&index=1)
+2. [Come funziona il trasporto pubblico all'Aquila?](https://www.youtube.com/watch?v=pKselmY0huY&list=PLAtZhKhpyfQ8&index=2)
+3. [Come possiamo migliorare il trasporto pubblico all'Aquila?](https://www.youtube.com/watch?v=EgGQcHm9Gzc&list=PLAtZhKhpyfQ8&index=3) 
 
 ## Indice
 
