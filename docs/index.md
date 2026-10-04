@@ -8,6 +8,10 @@ layout: default
 
 *Ultimo aggiornamento: 4 ottobre 2026 — [Storia e versioni del documento](#appendice-storia-e-versioni-del-documento)*
 
+## Sintesi infografica
+
+<img src="media/Riorganizzazione_trasporto_pubblico_all_Aquila_Infografica.png">
+
 ## Video illustrativi della proposta
 
 1. Le nuove linee AMA a L'Aquila: siamo di fronte a una svolta? [YouTube](https://www.youtube.com/watch?v=SN5JXWVQsdI&list=PLAtZhKhpyfQ8&index=1) [Facebook](https://www.facebook.com/reel/1618319656581449) [Instagram](https://www.instagram.com/reel/Ddvpfz1IdKB/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==)
