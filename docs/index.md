@@ -128,8 +128,8 @@ centri minori. Qui le densità scendono sotto i 1.000 abitanti per km².
 
 | \(a\) Comune dell’Aquila e limitrofi                            | \(b\) Area urbana densa                                         |
 |-----------------------------------------------------------------|-----------------------------------------------------------------|
-| <img src="media/image1.PNG" 
- style="width:3.14961in;height:2.11003in" />                      | <img src="media/image2.PNG" 
+| <img src="media/image1.JPG" 
+ style="width:3.14961in;height:2.11003in" />                      | <img src="media/image2.JPG" 
                                                                    style="width:3.14961in;height:2.32103in" />                      |
 
 Figura 1. Distribuzione della densità di popolazione nel Comune
@@ -163,7 +163,7 @@ frazioni e circa il 10% è diretto fuori comune, verso i comuni
 limitrofi. Questo indica dove si concentra la domanda e dove si dispone
 naturalmente la rete già oggi.
 
-<img src="media/image3.PNG"
+<img src="media/image3.JPG"
 style="width:4.25in;height:3.15972in" />
 
 Figura 2. Distribuzione percentuale degli spostamenti incentrati
