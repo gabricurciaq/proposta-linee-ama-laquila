@@ -10,7 +10,7 @@ layout: default
 
 ## Sintesi infografica
 
-<img src="media/Riorganizzazione_trasporto_pubblico_all_Aquila_Infografica.png">
+<img src="media/Riorganizzazione_trasporto_pubblico_all_Aquila_Infografica_mod.jpg">
 
 ## Video illustrativi della proposta
 
