@@ -790,19 +790,26 @@ Un riepilogo dell’attuale organizzazione delle corse per l’ingresso e
 l’uscita degli studenti è disponibile sul sito AMA[^7]; senza riprodurne
 fedelmente la struttura, si può osservare che, con la proposta in esame:
 
-- **Polo scolastico di Colle Sapone**: servito in modo frequente e
-  capillare dalle linee B e N5, a breve distanza pedonale anche da linee
-  A e C.
+- **Polo scolastico di Colle Sapone**: servito dalle linee B e N5, a breve distanza pedonale anche da linee
+  A, C e N8.
 
-- **Polo scolastico di Via da Vinci e scuola media Patini**: servito in
+- **Polo scolastico di Via da Vinci**: servito in
   modo frequente da linea B e a breve distanza pedonale da linea A.
 
-- **Scuola media Mazzini**: dovrebbe essere servito da navetta apposita.
+- **Istituto Da Vinci - Colecchi e scuola media Patini**: serviti da linea B.
+  
+- **Scuola media Mazzini**: vicina a Linea A, potrebbe essere opportuna una navetta di raccordo
+  ad esempio al Tecnopolo o Centi Colella.
 
-- **Scuola media Sassa**: servita dalla linea N12
+- **Scuola media Carducci**: vicina a linee B ed N5, potrebbe essere opportuna una navetta di raccordo
+  in zona Colle Sapone o Torrione.
 
-- **Scuola media Pianola**: vicino a linea E, forse dovrebbe essere
-  servita da linea apposita
+- **Scuola media Sassa**: servita dalla linea N12.
+
+- **Scuola media Pianola**: servita da linea E.
+
+- **Scuola media Paganica**: servita da linea C.
+
 
 Per le **scuole medie**, più in generale, considerata anche l’età degli
 utenti, appare probabilmente più opportuno prevedere un servizio di
