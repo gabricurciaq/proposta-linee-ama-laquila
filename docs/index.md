@@ -816,8 +816,8 @@ per tutti gli scopi (scolastici, lavorativi, a servizio di parcheggi di
 scambio, pendolari, accesso al centro storico, ecc.), il cui limite a
 frequenze di passaggio e fasce orarie coperte è determinato dalle
 attuali risorse operative di AMA (autisti, mezzi, chilometri), così come
-sintetizzato nella sezione 3 e relativa **Errore. L'origine riferimento
-non è stata trovata.** (totale 3.000.000 km/anno). Le criticità residue
+sintetizzato nella sezione 3 e relativa Tabella 1 (totale 2.700.000 km/anno).
+Le criticità residue
 appaiono soltanto per i plessi delle scuole medie di Mazzini e Pianola:
 un servizio specifico per questi plessi appare perseguibile, in quanto
 la presente proposta lascia un margine di 400.000 km/anno per estensioni
