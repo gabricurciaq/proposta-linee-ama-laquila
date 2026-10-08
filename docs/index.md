@@ -6,7 +6,7 @@ layout: default
 
 # Una proposta aperta di riorganizzazione delle linee urbane di trasporto pubblico a L'Aquila
 
-*Ultimo aggiornamento: 8 ottobre 2026 — [Storia e versioni del documento](#appendice-storia-e-versioni-del-documento)  —[licenza CC BY-SA 4.0.](https://github.com/gabricurciaq/proposta-linee-ama-laquila/blob/main/README.md)*
+*Ultimo aggiornamento: 8 ottobre 2026 — [Storia e versioni del documento](#appendice-storia-e-versioni-del-documento)  — [licenza CC BY-SA 4.0.](https://github.com/gabricurciaq/proposta-linee-ama-laquila/blob/main/README.md)*
 
 ## Sintesi infografica
 
