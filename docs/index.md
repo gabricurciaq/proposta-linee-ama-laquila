@@ -1,6 +1,6 @@
 ---
 title: "Una proposta aperta di riorganizzazione delle linee urbane di trasporto pubblico a L'Aquila"
-description: "Proposta di riorganizzazione delle linee AMA a L'Aquila: analisi della rete attuale, criticità e un progetto alternativo elaborato con realtà associative del territorio. Documento aperto, licenza CC BY-SA 4.0."
+description: "Proposta di riorganizzazione delle linee AMA a L'Aquila: analisi della rete attuale, criticità e un progetto alternativo elaborato con realtà associative del territorio. Documento aperto, [licenza CC BY-SA 4.0.](https://github.com/gabricurciaq/proposta-linee-ama-laquila/blob/main/README.md)"
 layout: default
 ---
 
