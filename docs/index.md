@@ -144,7 +144,7 @@ centri minori. Qui le densità scendono sotto i 1.000 abitanti per km².
 
 <!--
 <img src="media/image1_2.JPG"
-style="width:10in;height:3in" />
+style="width:11in" />
 -->
 
 
@@ -184,7 +184,7 @@ limitrofi. Questo indica dove si concentra la domanda e dove si dispone
 naturalmente la rete già oggi.
 
 <img src="media/image3.JPG"
-style="width:4.25in;height:3.15972in" />
+style="width:7in" />
 
 Figura 2. Distribuzione percentuale degli spostamenti incentrati
 sull’area urbana densa del Comune dell’Aquila (dati PUMS, 2022).
