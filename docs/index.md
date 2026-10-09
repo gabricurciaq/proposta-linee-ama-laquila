@@ -1115,6 +1115,8 @@ educazione e informazione.
   dell’Aquila, il documento torna a focalizzare principalmente sul
   trasporto pubblico, col fine di rendere pubblica la proposta su una
   piattaforma open.
+  
+- 9 ottobre 2026: prima versione aperta della proposta pubblicata su GitHub
 
 [^1]: <https://www.pumslaquila.it/> , in particolare il cronoprogramma
     sintetico degli interventi riportato al [TOMO 2, Capitolo 9 “Quadro
