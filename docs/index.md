@@ -20,7 +20,7 @@ layout: default
 | 2. Come funziona il trasporto pubblico all'Aquila? | [YouTube](https://www.youtube.com/watch?v=pKselmY0huY&list=PLAtZhKhpyfQ8&index=2) | [Facebook](https://www.facebook.com/reel/1170681555292171) | [Instagram](https://www.instagram.com/reel/Dd60sVaIB8E/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==) |
 | 3. Come possiamo migliorare il trasporto pubblico all'Aquila? | [YouTube](https://www.youtube.com/watch?v=EgGQcHm9Gzc&list=PLAtZhKhpyfQ8&index=3) | [Facebook](https://www.facebook.com/reel/1569806674441346) | [Instagram](https://www.instagram.com/reel/DeCHkMoo_lx/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==) |
 | 4. Come migliorare il servizio bus per le frazioni? | [YouTube](https://www.youtube.com/watch?v=oKms6LGx8OA&list=PLAtZhKhpyfQ8&index=4) | [Facebook](https://www.facebook.com/reel/958106780700201) | [Instagram](https://www.instagram.com/reel/DeNBa2bIyVV/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==) |
-| 5. Come gestire il trasporto scolastico? | [YouTube](https://www.youtube.com/watch?v=xeLKZKqAguk&list=PLAtZhKhpyfQ8&index=6) | [Facebook]() | [Instagram]() |
+| 5. Come gestire il trasporto scolastico? | [YouTube](https://www.youtube.com/watch?v=xeLKZKqAguk&list=PLAtZhKhpyfQ8&index=6) | [Facebook](https://www.facebook.com/reel/1641976400898644) | [Instagram](https://www.instagram.com/reels/DeQ4axvIxc6/) |
 
 [Scarica le slide mostrate nei video](media/video_slides.pdf)
 
