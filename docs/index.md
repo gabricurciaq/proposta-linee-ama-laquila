@@ -1151,6 +1151,9 @@ educazione e informazione.
     linee principali. A questi si aggiungono 1 bus/ora per ciascuna
     delle undici navette, quindi in totale 28 bus/ora.
 
+<script data-goatcounter="https://proposta-ama.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+<!--
 <p style="text-align:center; font-size:0.9em; color:#666;">
   Questa pagina è stata letta <strong><span id="visite">…</span></strong> volte
 </p>
@@ -1166,6 +1169,7 @@ educazione e informazione.
     r.send();
   })();
 </script>
+-->
 <p style="text-align:center; font-size:0.8em; color:#888;">
   Questo sito raccoglie statistiche di accesso anonime e aggregate tramite
   <a href="https://www.goatcounter.com/" target="_blank" rel="noopener">GoatCounter</a>,
