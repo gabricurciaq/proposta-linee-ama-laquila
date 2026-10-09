@@ -1150,3 +1150,25 @@ educazione e informazione.
     1 bus/ora per la linea F, quindi in totale 17 bus/ora per le sei
     linee principali. A questi si aggiungono 1 bus/ora per ciascuna
     delle undici navette, quindi in totale 28 bus/ora.
+
+<p style="text-align:center; font-size:0.9em; color:#666;">
+  Questa pagina è stata letta <strong><span id="visite">…</span></strong> volte
+</p>
+<script>
+  (function () {
+    var r = new XMLHttpRequest();
+    r.addEventListener('load', function () {
+      try {
+        document.getElementById('visite').innerText = JSON.parse(this.responseText).count;
+      } catch (e) {}
+    });
+    r.open('GET', 'https://proposta-ama.goatcounter.com/counter/' + encodeURIComponent(location.pathname) + '.json');
+    r.send();
+  })();
+</script>
+<p style="text-align:center; font-size:0.8em; color:#888;">
+  Questo sito raccoglie statistiche di accesso anonime e aggregate tramite
+  <a href="https://www.goatcounter.com/" target="_blank" rel="noopener">GoatCounter</a>,
+  senza cookie e senza dati personali che identifichino i lettori.
+  <a href="https://www.goatcounter.com/privacy" target="_blank" rel="noopener">Informativa del servizio</a>.
+</p>
