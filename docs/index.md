@@ -14,7 +14,7 @@ layout: default
 
 ## Video illustrativi della proposta
 
-| Proposta aperta trasporto pubblico all'Aquila - Teaser | [YouTube](https://www.youtube.com/watch?v=qRjJGyypHos&list=PLAtZhKhpyfQ8&index=6) | [Facebook]() | [Instagram]() |
+| Proposta aperta trasporto pubblico all'Aquila - Teaser | [YouTube](https://www.youtube.com/watch?v=qRjJGyypHos&list=PLAtZhKhpyfQ8&index=6) | [Facebook](https://www.facebook.com/reel/2209683973299052) | [Instagram](https://www.instagram.com/reel/DeTX3usI7Wu/?utm_source=ig_web_copy_link&rpxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==) |
 |---|---|---|---|
 | 1. Le nuove linee AMA a L'Aquila: siamo di fronte a una svolta? | [YouTube](https://www.youtube.com/watch?v=SN5JXWVQsdI&list=PLAtZhKhpyfQ8&index=1) | [Facebook](https://www.facebook.com/reel/1618319656581449) | [Instagram](https://www.instagram.com/reel/Ddvpfz1IdKB/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==) |
 | 2. Come funziona il trasporto pubblico all'Aquila? | [YouTube](https://www.youtube.com/watch?v=pKselmY0huY&list=PLAtZhKhpyfQ8&index=2) | [Facebook](https://www.facebook.com/reel/1170681555292171) | [Instagram](https://www.instagram.com/reel/Dd60sVaIB8E/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==) |
