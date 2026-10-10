@@ -61,8 +61,8 @@ diverse realtà associative del territorio, come brevemente riportato in
 Appendice.
 
 La motivazione alla base del suo sviluppo è la crescente e condivisa
-esigenza di intraprendere un salto di qualità rispetto allo stato
-attuale in tema di viabilità e mobilità della città dell’Aquila,
+**esigenza di intraprendere un salto di qualità rispetto allo stato
+attuale in tema di viabilità e mobilità della città dell’Aquila**,
 riguardo, ad esempio, l’accesso al centro storico per residenti e
 visitatori, la congestione del traffico urbano, i servizi di trasporto
 per studenti scolastici e universitari, trasporto per i lavoratori, la
@@ -70,15 +70,15 @@ scarsa attenzione alla pedonalità e alla ciclabilità nel tessuto urbano.
 
 La base del ragionamento muove dal riconoscere che l’evoluzione sia
 della viabilità che della mobilità urbana dall’ultimo dopoguerra è stata
-fortemente influenzata e, per certi versi, asservita all’utilizzo
-dell’automobile privata. Questo ha penalizzato le altre modalità di
+**fortemente influenzata e, per certi versi, asservita all’utilizzo
+dell’automobile privata**. Questo ha penalizzato le altre modalità di
 trasporto urbano, ovvero la pedonalità, il trasporto pubblico, la
 ciclabilità e la loro connessione multimodale e ha condizionato in modo
 determinate lo sviluppo stesso del quadro urbanistico complessivo.
 
 Ci si trova di conseguenza oggi a non avere reali alternative all’uso
-del veicolo privato, con un sistema che presenta il conto, oltre che con
-i suoi vantaggi, anche con tutti i suoi limiti: l’esclusione delle fasce
+del veicolo privato, con un sistema che presenta il conto, **oltre che con
+i suoi vantaggi, anche con tutti i suoi limiti**: l’esclusione delle fasce
 più deboli (bambini, persone con disabilità, redditi bassi, ecc.), la
 congestione del traffico, la richiesta sproporzionata e impraticabile di
 spazio pubblico (vedasi ad esempio la questione dei parcheggi al
@@ -88,8 +88,8 @@ densità di passeggeri per veicolo).
 Il superamento di questi limiti non può che passare attraverso una
 revisione della filosofia di fondo con cui si gestisce lo spazio
 pubblico stradale (viabilità) e il modo con cui ci si muove attraverso
-esso (mobilità), rendendo il sistema più vario, flessibile e accessibile
-per tutti, in particolare superando la dipendenza esclusiva dall’uso
+esso (mobilità), **rendendo il sistema più vario, flessibile e accessibile
+per tutti**, in particolare superando la dipendenza esclusiva dall’uso
 dell’automobile privata e rendendo efficaci anche altre soluzioni di
 trasporto sostenibili e multimodali. Ciò porterebbe a diffusi vantaggi
 economici, gestionali e sociali ben oltre il mero spostarsi in città.
@@ -138,9 +138,9 @@ Il punto di partenza per immaginare soluzioni nuove per il trasporto
 pubblico è comprendere a grandi linee la forma della città, perché la
 rete di trasporto pubblico dipende primariamente da come si distribuisce
 la popolazione. La mappa della densità abitativa del comune dell'Aquila
-(Figura 1) e dei comuni limitrofi mostra un'area centrale molto densa,
-con 4.000-5.000 abitanti per km², circondata da una rete di frazioni e
-centri minori. Qui le densità scendono sotto i 1.000 abitanti per km².
+(Figura 1) e dei comuni limitrofi mostra **un'area centrale molto densa,
+con 4.000-5.000 abitanti per km²**, circondata da una **rete di frazioni e
+centri minori. Qui le densità scendono sotto i 1.000 abitanti per km²**.
 
 <!--
 <img src="media/image1_2.JPG"
@@ -156,8 +156,8 @@ Figura 1. Distribuzione della densità di popolazione nel Comune
 dell’Aquila. (a) L’Aquila e comuni limitrofi, (b) area urbana densa.
 
 Restringendo l'attenzione all'area più densa, tra il centro e la zona
-ovest con i quartieri più popolosi, si individua una fascia lunga circa
-7 km e larga circa 2 km, che segue l'asse della valle. Lungo questa
+ovest con i quartieri più popolosi, si individua **una fascia lunga circa
+7 km e larga circa 2 km, che segue l'asse della valle**. Lungo questa
 fascia ci sono sei nodi fondamentali, importanti sia per la città sia
 per il trasporto pubblico:
 
@@ -291,9 +291,9 @@ Luminosa – Viale Croce Rossa – MySuite – Ospedale – L’Aquilone – MyS
 bus in senso orario farebbe lo stesso percorso in senso inverso, sfasato
 con l’altro di 10 minuti.
 
-La **LINEA B** andrebbe a coprire la fascia nord dell’insediamento
+La **LINEA B** andrebbe a coprire la **fascia nord dell’insediamento
 abitativo più denso, con una frequenza di passaggio di 30 minuti per
-ciascun senso di marcia, sulla falsa riga delle attuali linee 3 e 4 e in
+ciascun senso di marcia**, sulla falsa riga delle attuali linee 3 e 4 e in
 parte della 1. Essa si collegherebbe ai nodi della linea A alla Fontana
 Luminosa e all’Ospedale, a breve distanza anche al MySuite. Passerebbe
 per i quartieri del Torrione, S. Francesco, Valle Pretara, S. Sisto, S.
@@ -470,7 +470,7 @@ principale 6S/D.
 Sembra possibile ottimizzare il servizio **rendendo più frequente la
 linea 6**, mantenendone la circolarità a doppio senso di percorrenza, ma
 fermando le corse per l’interscambio con la linea A proposta o altre
-linee al Terminal di Collemaggio. La linea potrebbe essere
+linee al **Terminal di Collemaggio**. La linea potrebbe essere
 **rinominata** **linea C** (Figura 15), a formare la terza in ordine
 gerarchico nel tessuto urbano e transitando anche per il **nodo
 ferroviario di Paganica**, suscettibile di sviluppi futuri con un
@@ -534,8 +534,8 @@ nera. In giallo le principali strade.
 Anche in questo caso, appare più razionale istituire una circolare
 principale e delle navette che servano le frazioni limitrofe a zone. In
 particolare, si potrebbe istituire una **linea D** circolare a doppio
-senso di percorrenza (Figura 20), che colleghi il Terminal di
-Collemaggio a Civita Di Bagno, Monticchio, Stazione di Paganica, S.
+senso di percorrenza (Figura 20), che colleghi il **Terminal di
+Collemaggio** a Civita Di Bagno, Monticchio, **Stazione di Paganica**, S.
 Elia.
 
 A questa dorsale del quadrante Sud-Est dell’area suburbana, si
@@ -543,7 +543,7 @@ andrebbero ad agganciare quelle che diverrebbero **navette N10 e N16**
 per servire le località rispettivamente di Bagno e di S. Gregorio,
 Fossa, Picenze. La N10 si coordinerebbe con la linea D a Civita di
 Bagno, servendo alternativamente Bagno e Ocre (Figura 21). La N16 si
-innesterebbe con le linee C e D alla stazione di Paganica, servendo
+innesterebbe con le linee C e D alla **stazione di Paganica**, servendo
 alternativamente Fossa e Picenze (Figura 22).
 
 <img src="media/image21.jpg"
@@ -591,7 +591,7 @@ nera. In giallo le principali strade.
 
 Il percorso della **linea 11** appare davvero molto lungo ed
 inefficiente. Una possibile idea potrebbe essere quella di intercettare
-la linea 11A presso la piazza di **Poggio di** **Roio e fare da spola
+la linea 11A presso la piazza di **Poggio di Roio e fare da spola
 solo tra quest’ultimo e L’Aquilone**, in modo da incrementare la
 frequenza. La linea 11A garantirebbe il collegamento col centro storico
 e con il Polo universitario. Potrebbe essere nominata **navetta N11**.
@@ -641,7 +641,8 @@ nera. In giallo le principali strade.
 
 Sul modello delle navette suburbane proposte per le altre frazioni,
 anche qui appare logico istituire una **navetta N12** (Figura 29) che si
-allacci alla linea A all’Aquilone e che abbia come terminale
+allacci alla linea A **all’Aquilone** (potrebbe essere estesa **all'Ospedale**
+per il cambio anche con la linea B) e che abbia come terminale
 alternativamente Prata e Foce. Il percorso è comunque molto lungo, ma
 permette una maggiore efficienza e frequenza rispetto alle attuali
 linee.
@@ -671,11 +672,12 @@ nera. In giallo le principali strade.
 
 La linea 14D attuale si presta a fungere da dorsale del quadrante
 suburbano Nord-Est e potrebbe essere quindi configurata come **linea F**
-della rete principale a doppia direzione di marcia.
+della rete principale a doppia direzione di marcia, intersecando le
+dorsali A e B **all'Aquilone** e nel **Polo di Coppito**.
 
 Le linee 13 e 15 potrebbero invece essere unite in una sola linea, la
 **navetta N13/N15**, che avrebbe come terminali Menzano e Arischia,
-transitando per Preturo e il Polo Universitario di Coppito, per il
+transitando per Preturo e il **Polo Universitario di Coppito**, per il
 raccordo con le linee A e F.
 
 <img src="media/image32.jpg"
@@ -717,7 +719,7 @@ A** di questa proposta servirebbe, con una **frequenza praticamente
 doppia dell’attuale navetta** centro (alternativamente verso la Fontana
 Luminosa e la Villa Comunale) chi parcheggia al **Terminal di
 Collemaggio, nell’area di Villa Gioia, della Stazione FS, del nuovo
-parcheggio della ex Caserma Rossi** (che così non necessiterebbe di
+parcheggio della ex Caserma Rossi** (che così *non* necessiterebbe di
 navetta apposita, come anche proposto in passato da Urban Center
 L’Aquila), mentre la **linea B e la navetta N8** collegherebbero ad
 **alta frequenza tutto il quartiere del Torrione con la Fontana
@@ -1016,17 +1018,17 @@ l’attuale conteggio di corse giornaliere effettuate.
 ### Sviluppi futuri
 
 La proposta, finora maturata e presentata in queste pagine, inizia
-volutamente con il servizio di trasporto pubblico, perché questo è
+volutamente con il **servizio di trasporto pubblico, perché questo è
 considerato il presupposto, lo scheletro portante, di qualsiasi
-iniziativa di rigenerazione urbana. Il necessario sviluppo del lavoro
-riguarda aspetti legati alla viabilità, in particolare dal punto di
+iniziativa di rigenerazione urbana**. Il necessario sviluppo del lavoro
+riguarda aspetti legati alla **viabilità, in particolare dal punto di
 vista pedonale e ciclabile, e la gestione dello spazio pubblico adibito
-a parcheggio. Nelle proposte preliminari illustrate nel documento, i
+a parcheggio**. Nelle proposte preliminari illustrate nel documento, i
 principi ispiratori sono già tuttavia delineati.
 
 Lo spazio pubblico, per restare tale e fornire benefici socio-economici
-e ambientali diffusi, deve necessariamente riflettere l’interesse
-pubblico della comunità che lo vive, a iniziare dal come essa vi si
+e ambientali diffusi, deve necessariamente **riflettere l’interesse
+pubblico della comunità che lo vive**, a iniziare dal come essa vi si
 sposta attraverso. Una mobilità troppo sbilanciata sul trasporto
 privato, com’è ora, non può che creare distorsioni nel suo utilizzo,
 cosa che penalizza la qualità e fruibilità dei luoghi, intralciando il
@@ -1038,22 +1040,22 @@ Tutti i percorsi interessati dal trasporto pubblico identificano le
 arterie principali del tessuto urbano: come tali, devono essere
 progettate e mantenute in modo da garantire sicurezza, comfort e
 continuità anche con percorsi pedonali e ciclabili adiacenti ad essi.
-L’uso del suolo pubblico per parcheggio di mezzi privati deve essere
-gratuito solo in casi limitati, ad esempio per i residenti della zona.
+L’uso del suolo pubblico per **parcheggio di mezzi privati deve essere
+gratuito solo in casi limitati, ad esempio per i residenti della zona**.
 In aree ad alta frequentazione esso deve essere necessariamente a
 pagamento, in modo commisurato al tempo di utilizzo, alla distanza
 dall’area di interesse e alla disponibilità reale di spazio e di
 alternative di trasporto.
 
-Possibilmente, le superfici adibite a parcheggio devono essere
+Possibilmente, le **superfici adibite a parcheggio devono essere
 deimpermiabilizzate e sfruttate anche per la produzione di energia
-fotovoltaica. Ovunque possibile, le aree di parcheggio vanno ridotte a
-favore di verde pubblico e altri spazi fruibili liberamente. I ricavi
+fotovoltaica**. Ovunque possibile, le aree di parcheggio vanno **ridotte a
+favore di verde pubblico e altri spazi fruibili liberamente**. I **ricavi
 dei parcheggi devono essere reimpiegati per finanziare e migliorare le
 alternative all’automobile, ovvero trasporto pubblico, pedonalità e
-ciclabilità delle strade, non solo attraverso nuove infrastrutture e
+ciclabilità delle strade**, non solo attraverso nuove infrastrutture e
 nuovi servizi, ma anche attraverso un’ampia e analitica opera di
-educazione e informazione.
+**educazione e informazione**.
 
 ## Appendice: Storia e versioni del documento
 
