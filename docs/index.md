@@ -184,7 +184,7 @@ limitrofi. Questo indica dove si concentra la domanda e dove si dispone
 naturalmente la rete già oggi.
 
 <img src="media/image3.JPG"
-style="width:6in" />
+style="width:5in" />
 
 Figura 2. Distribuzione percentuale degli spostamenti incentrati
 sull’area urbana densa del Comune dell’Aquila (dati PUMS, 2022).
