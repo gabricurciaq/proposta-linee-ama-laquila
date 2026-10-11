@@ -6,7 +6,7 @@ layout: default
 
 # Una proposta aperta di riorganizzazione delle linee urbane di trasporto pubblico a L'Aquila
 
-*Ultimo aggiornamento: 8 ottobre 2026 — [GitHub open source](https://github.com/gabricurciaq/proposta-linee-ama-laquila) — [Storia e versioni del documento](#appendice-storia-e-versioni-del-documento)  — [licenza CC BY-SA 4.0.](https://github.com/gabricurciaq/proposta-linee-ama-laquila/blob/main/README.md)*
+*Ultimo aggiornamento: 11 ottobre 2026 — [GitHub open source](https://github.com/gabricurciaq/proposta-linee-ama-laquila) — [Storia e versioni del documento](#appendice-storia-e-versioni-del-documento)  — [licenza CC BY-SA 4.0.](https://github.com/gabricurciaq/proposta-linee-ama-laquila/blob/main/README.md)*
 
 ## Sintesi infografica
 
@@ -23,6 +23,29 @@ layout: default
 | 5. Come gestire il trasporto scolastico? | [YouTube](https://www.youtube.com/watch?v=xeLKZKqAguk&list=PLAtZhKhpyfQ8&index=6) | [Facebook](https://www.facebook.com/reel/1641976400898644) | [Instagram](https://www.instagram.com/reels/DeQ4axvIxc6/) |
 
 [Scarica le slide mostrate nei video](media/video_slides.pdf)
+
+## Metti alla prova la proposta con l'IA
+
+Apri ChatGPT, Gemini, Claude o la tua IA preferita e incolla questo prompt (o modificalo come vuoi):
+
+```
+“Se si realizzasse la proposta di riorganizzazione delle linee di trasporto pubblico all'Aquila esposta su
+https://gabricurciaq.github.io/proposta-linee-ama-laquila/ , ci sarebbe un reale vantaggio in termini di tempo medio di attesa alla
+fermata e di percorrenza rispetto al servizio attuale AMA (https://www.ama.laquila.it/linee-e-orari/elenco-linee-ama/)?
+Mi interessa valutare, in particolare, le differenze sulla tratta: [INSERISCI QUI LA TUA TRATTA, es. Pettino - Centro, oppure Terminal Collemaggio - Ospedale / Coppito]”
+```
+HAI NOTATO CRITICITÀ O HAI IDEE PER MIGLIORARLA?
+
+Il nuovo assetto deve funzionare al meglio per tutta la comunità. Dopo aver fatto il test con l'IA:
+• La tua fermata o quartiere hanno buchi di copertura?
+• Gli orari per raggiungere scuola, università o lavoro tornano?
+• Vedi coincidenze o nodi di interscambio migliorabili?
+
+Fai sentire la tua voce! Invia osservazioni, problemi e suggerimenti all'autore tramite i contatti
+sul sito o commentando i post social dedicati. Il trasporto pubblico si migliora insieme!
+
+Scarica un poster A4 per proporre il test a tuoi amici, colleghi, ecc.
+
 
 ## Indice
 
@@ -1119,6 +1142,8 @@ nuovi servizi, ma anche attraverso un’ampia e analitica opera di
   piattaforma open.
   
 - 9 ottobre 2026: prima versione aperta della proposta pubblicata su GitHub
+
+- 11 ottobre 2026: diffusione invito a testare la bonta' della proposta utilizzando l'IA
 
 [^1]: <https://www.pumslaquila.it/> , in particolare il cronoprogramma
     sintetico degli interventi riportato al [TOMO 2, Capitolo 9 “Quadro
