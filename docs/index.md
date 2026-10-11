@@ -44,7 +44,7 @@ Il nuovo assetto deve funzionare al meglio per tutta la comunità. Dopo aver fat
 Fai sentire la tua voce! Invia osservazioni, problemi e suggerimenti all'autore tramite i contatti
 sul sito o commentando i post social dedicati. Il trasporto pubblico si migliora insieme!
 
-Scarica un poster A4 per proporre il test a tuoi amici, colleghi, ecc.
+[Scarica un poster A4 per proporre il test a tuoi amici, colleghi, ecc.](media/poster_fermata_trasporti_laquila.pdf)
 
 
 ## Indice
