@@ -14,3 +14,7 @@ theme: minima
 # Usato da jekyll-seo-tag (incluso automaticamente da GitHub Pages) per
 # generare i meta-tag utili al posizionamento nei motori di ricerca e
 # all'anteprima quando il link viene condiviso sui social.
+
+# Per indicizzazione Google
+url: "https://gabricurciaq.github.io"
+baseurl: "/proposta-linee-ama-laquila"
