@@ -37,12 +37,13 @@ Mi interessa valutare, in particolare, le differenze sulla tratta: [INSERISCI QU
 HAI NOTATO CRITICITÀ O HAI IDEE PER MIGLIORARLA?
 
 Il nuovo assetto deve funzionare al meglio per tutta la comunità. Dopo aver fatto il test con l'IA:
-• La tua fermata o quartiere hanno buchi di copertura?
-• Gli orari per raggiungere scuola, università o lavoro tornano?
-• Vedi coincidenze o nodi di interscambio migliorabili?
 
-Fai sentire la tua voce! Invia osservazioni, problemi e suggerimenti all'autore tramite i contatti
-sul sito o commentando i post social dedicati. Il trasporto pubblico si migliora insieme!
+- La tua fermata o quartiere hanno buchi di copertura?
+- Gli orari per raggiungere scuola, università o lavoro tornano?
+- Vedi coincidenze o nodi di interscambio migliorabili?
+
+Fai sentire la tua voce! **Invia osservazioni, problemi e suggerimenti all'autore tramite i contatti
+sul sito o commentando i post social dedicati**. Il trasporto pubblico si migliora insieme!
 
 [Scarica un poster A4 per proporre il test a tuoi amici, colleghi, ecc.](media/poster_fermata_trasporti_laquila.pdf)
 
