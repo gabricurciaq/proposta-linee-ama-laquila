@@ -299,7 +299,7 @@ Luminosa e all’Ospedale, a breve distanza anche al MySuite. Passerebbe
 per i quartieri del Torrione, S. Francesco, Valle Pretara, S. Sisto, S.
 Barbara, Via Antica Arischia, Pettino, Cansatessa, Ospedale/Università
 Coppito, Via Comunità Europea/Da Vinci/Amiternum. La lunghezza del
-percorso ipotizzato di circa 25 km, percorribile in un’ora o poco più.
+percorso ipotizzato di circa 20 km, percorribile in un’ora o poco più.
 Con i quattro autobus dedicati, sempre circolanti nei due sensi di
 rotazione, si potrebbe garantire una frequenza di circa 30 minuti per
 senso di marcia, ovvero un passaggio ogni 15 minuti in ogni coppia di
@@ -834,7 +834,7 @@ sintetizzato nella sezione 3 e relativa Tabella 1 (totale 2.700.000 km/anno).
 Le criticità residue
 appaiono soltanto per i plessi delle scuole medie di Mazzini e Pianola:
 un servizio specifico per questi plessi appare perseguibile, in quanto
-la presente proposta lascia un margine di 400.000 km/anno per estensioni
+la presente proposta lascia un margine di 700.000 km/anno per estensioni
 e servizi specifici con le attuali risorse.
 
 Per quanto riguarda il **trasporto universitario**, i **tre Poli di
@@ -1013,7 +1013,7 @@ l’attuale conteggio di corse giornaliere effettuate.
 | **N12**     | Sassa                                       | <https://www.google.com/maps/d/u/0/edit?mid=1hPYkpGsDM-H_WyvJugJjM6Q8aNnps_Q&usp=sharing> | 56                          | 90                            | 1                       | 310             | 14             | 162.027                | 9                | 12, 12A, M12X     | 12                       |
 | **N13/N15** | Menzano-Arischia                            | <https://www.google.com/maps/d/u/0/edit?mid=1ALnwQ8f4Pw1BAGyWdJoHKRsSwlQbG5A&usp=sharing> | 50                          | 90                            | 1                       | 310             | 14             | 144.667                | 9                | 13                | 18                       |
 | **N16**     | Fossa-Picenze                               | <https://www.google.com/maps/d/u/0/edit?mid=1AHwhtZuknhTlsaEc_VSMKgU6ok02ZwY&usp=sharing> | 28                          | 60                            | 1                       | 310             | 14             | 121.520                | 14               | 16, 16A           | 15                       |
-| **TOTALE**  |                                             |                                                                                           |                             |                               |                         |                 |                | 2.698.901              | 500              |                   | 515                      |
+| **TOTALE**  |                                             |                                                                                           |                             |                               |                         |                 |                | 2.820.421              | 500              |                   | 515                      |
 
 ### Sviluppi futuri
 
