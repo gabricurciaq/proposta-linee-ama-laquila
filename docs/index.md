@@ -28,6 +28,13 @@ layout: default
 
 Apri ChatGPT, Gemini, Claude o la tua IA preferita e incolla questo prompt (o modificalo come vuoi):
 
+<div style="background:#fff8e1; border-left:5px solid #f9a825; padding:12px 16px; margin:16px 0;">
+Se si realizzasse la proposta di riorganizzazione delle linee di trasporto pubblico all'Aquila esposta su
+https://gabricurciaq.github.io/proposta-linee-ama-laquila/ , ci sarebbe un reale vantaggio in termini di tempo medio di attesa alla
+fermata e di percorrenza rispetto al servizio attuale AMA (https://www.ama.laquila.it/linee-e-orari/elenco-linee-ama/)?
+Mi interessa valutare, in particolare, le differenze sulla tratta: [INSERISCI QUI LA TUA TRATTA, es. Pettino - Centro, oppure Terminal Collemaggio - Ospedale / Coppito]
+</div>
+
 ```
 “Se si realizzasse la proposta di riorganizzazione delle linee di trasporto pubblico all'Aquila esposta su
 https://gabricurciaq.github.io/proposta-linee-ama-laquila/ , ci sarebbe un reale vantaggio in termini di tempo medio di attesa alla
@@ -174,7 +181,7 @@ style="width:11in" />
 
 | \(a\) Comune dell'Aquila e limitrofi | \(b\) Area urbana densa |
 |---|---|
-| <img src="media/image1.JPG" style="width:3.14961in;height:2.11003in" /> | <img src="media/image2.JPG" style="width:3.14961in;height:2.32103in" /> |
+| <img src="media/image1.JPG" style="height:2in" /> | <img src="media/image2.JPG" style="height:2in" /> |
 
 Figura 1. Distribuzione della densità di popolazione nel Comune
 dell’Aquila. (a) L’Aquila e comuni limitrofi, (b) area urbana densa.
@@ -207,8 +214,7 @@ frazioni e circa il 10% è diretto fuori comune, verso i comuni
 limitrofi. Questo indica dove si concentra la domanda e dove si dispone
 naturalmente la rete già oggi.
 
-<img src="media/image3.JPG"
-style="width:5in" />
+<img src="media/image3.JPG">
 
 Figura 2. Distribuzione percentuale degli spostamenti incentrati
 sull’area urbana densa del Comune dell’Aquila (dati PUMS, 2022).
@@ -223,8 +229,7 @@ quartieri di Torrione, Valle Pretara, S. Sisto, S. Barbara, Pettino e
 Cansatessa e a collegare tra di loro i sei nodi principali, riportati
 per comodità in Figura 3.
 
-<img src="media/image4.JPG"
-style="width:6.69306in;height:3.76458in" />
+<img src="media/image4.JPG">
 
 Figura 3. Principali nodi dell’area urbana più densamente abitata del
 Comune dell’Aquila. L’area copre la zona centro-ovest della valle, ha
@@ -251,8 +256,7 @@ appare quella più utilizzabile, proprio perché cadenzata e con un
 percorso fisso che unisce diversi punti nodali in modo facilmente
 comprensibile.
 
-<img src="media/image5.PNG"
-style="width:6.69259in;height:3.76458in" />
+<img src="media/image5.PNG">
 
 Figura 4. Mappa delle attuali linee AMA che servono la parte più
 centrale e densamente popolata dell’Aquila. La frequenza dei passaggi è
@@ -280,8 +284,7 @@ stesse zone attualmente percorse dalle linee, ma modificandone la logica
 prendendo spunto ed **eliminando le ridondanze inefficienti ed**
 **estendendo a tutta l’area il concetto delle navette A/B**.
 
-<img src="media/image6.JPG"
-style="width:6.69259in;height:3.76458in" />
+<img src="media/image6.JPG">
 
 Figura 5. Proposta di revisione delle linee AMA principali,
 riorganizzando su due linee ad anello da percorrere in senso orario e
@@ -371,8 +374,7 @@ entrata e uscita delle scuole. Ci sono infatti anche due corse speciali
 che transitano per Colle Sapone alle 7:30 (M5W) e alle 13:15 (M5Y). Il
 percorso ciclico viene effettuato in 35 minuti circa.
 
-<img src="media/image7.jpg"
-style="width:6.69306in;height:3.38819in" />
+<img src="media/image7.jpg">
 
 Figura 6. Percorso dell’attuale linee AMA 5 e M5, indicato con la linea
 nera. In giallo le principali strade.
@@ -400,8 +402,7 @@ Cencioni, Torretta, Gignano e Colle Sapone (Figura 7). Il **verso di
 percorrenza potrebbe essere alternato nei due sensi** a ogni passaggio
 alla Fontana Luminosa.
 
-<img src="media/image8.jpg"
-style="width:5.84485in;height:4.52778in" />
+<img src="media/image8.jpg">
 
 Figura 7. Idea progettuale per una navetta N5 che collega in modo
 circolare Fontana Luminosa, Piazzale Cencioni e i quartieri di Torretta,
@@ -414,14 +415,12 @@ S. Giacomo con 9 corse giornaliere, transitando anche per la Fontana
 Luminosa. L’attuale linea 9 collega similmente il Terminal con le
 frazioni di Collebrincioni e Aragno.
 
-<img src="media/image9.jpeg"
-style="width:6.69306in;height:3.38819in" />
+<img src="media/image9.jpeg">
 
 Figura 8. Percorso dell’attuale linea AMA M8, indicato con la linea
 nera. In giallo le principali strade.
 
-<img src="media/image10.jpg"
-style="width:6.69306in;height:3.31875in" />
+<img src="media/image10.jpg">
 
 Figura 9. Percorso dell’attuale linea AMA 9/M9, indicato con la linea
 nera. In giallo le principali strade.
@@ -435,8 +434,7 @@ storico**. Il servizio potrebbe essere effettuato con una navetta N8,
 che colleghi la Fontana Luminosa alternativamente con S. Giacomo e
 Collebrincioni-Aragno (Figura 10).
 
-<img src="media/image11.jpg"
-style="width:4.66791in;height:4.90278in" />
+<img src="media/image11.jpg">
 
 Figura 10. Idea progettuale della navetta N8, che collega la Fontana
 Luminosa, dove avviene l’innesto con le linee A e B, alternativamente
@@ -461,26 +459,22 @@ linea 7 (Figura 14) è collega Paganica con le vicine frazioni di
 Camarda, Filetto e Pescomaggiore, per poi arrivare al Terminal di
 Collemaggio (6 corse al giorno).
 
-<img src="media/image12.jpg"
-style="width:6.69306in;height:3.38819in" />
+<img src="media/image12.jpg">
 
 Figura 11. Percorso dell’attuale linee AMA 6S/D, indicato con la linea
 nera. In giallo le principali strade.
 
-<img src="media/image13.jpg"
-style="width:6.69306in;height:3.38819in" />
+<img src="media/image13.jpg">
 
 Figura 12. Percorso dell’attuale linea AMA M6, indicato con la linea
 nera. In giallo le principali strade.
 
-<img src="media/image14.jpg"
-style="width:6.69306in;height:3.38819in" />
+<img src="media/image14.jpg">
 
 Figura 13. Percorso dell’attuale linea AMA M6B, indicato con la linea
 nera. In giallo le principali strade.
 
-<img src="media/image15.jpg"
-style="width:6.69306in;height:3.38819in" />
+<img src="media/image15.jpg">
 
 Figura 14. Percorso dell’attuale linea AMA 7, indicato con la linea
 nera. In giallo le principali strade.
@@ -503,8 +497,7 @@ dell’Aquila. Inoltre, la linea potrebbe transitare in **Via della
 Polveriera** anziché salire per il Viale di Collemaggio che è
 disabitato.
 
-<img src="media/image16.jpg"
-style="width:5.92739in;height:3.95159in" />
+<img src="media/image16.jpg">
 
 Figura 15. Idea progettuale della nuova linea C, dorsale a doppio senso
 di percorrenza del quadrante suburbano Nord-Est.
@@ -518,15 +511,13 @@ parziale sovrapposizione con la linea C. In quel contesto, potrebbe
 essere attivata una navetta locale a chiamata per compiere piccoli
 spostamenti.
 
-<img src="media/image17.jpg"
-style="width:2.84028in;height:3.50694in" />
+<img src="media/image17.jpg">
 
 Figura 16. Idea progettuale della navetta N6, che si innesta a Paganica
 nella linea C e che collega quest’ultima a Fonte Cerreto per la Funivia
 del Gran Sasso.
 
-<img src="media/image18.jpg"
-style="width:4.30556in;height:4.22917in" />
+<img src="media/image18.jpg">
 
 Figura 17. Idea progettuale della navetta N7, che si innesta a Paganica
 nella linea C e che collega quest’ultima a alle frazioni di Camarda,
@@ -543,14 +534,12 @@ collega il Terminal con Civita di Bagno, Cavalletto d’Ocre Monticchio,
 Fossa con 15 corse A/R al giorno. La linea 16A (Figura 19) collega il
 Terminal con S. Gregorio e Picenze con circa 12 corse giornaliere A/R.
 
-<img src="media/image19.jpg"
-style="width:6.69306in;height:3.38819in" />
+<img src="media/image19.jpg">
 
 Figura 18. Percorso dell’attuale linea AMA 10, indicato con la linea
 nera. In giallo le principali strade.
 
-<img src="media/image20.jpg"
-style="width:6.69306in;height:3.31875in" />
+<img src="media/image20.jpg">
 
 Figura 19. Percorso dell’attuale linea AMA 16A, indicato con la linea
 nera. In giallo le principali strade.
@@ -570,22 +559,19 @@ Bagno, servendo alternativamente Bagno e Ocre (Figura 21). La N16 si
 innesterebbe con le linee C e D alla **stazione di Paganica**, servendo
 alternativamente Fossa e Picenze (Figura 22).
 
-<img src="media/image21.jpg"
-style="width:6.191in;height:3.44018in" />
+<img src="media/image21.jpg">
 
 Figura 20. Possibile percorso della linea D, circolare a doppio senso di
 percorrenza che costituisce la dorsale del quadrante Sud-Est dell’area
 suburbana.
 
-<img src="media/image22.jpg"
-style="width:6.2772in;height:4.08958in" />
+<img src="media/image22.jpg">
 
 Figura 21. Idea progettuale navetta N10, che si innesta sulla linea D a
 Civita Di Bagno e che serve alternativamente Bagno e frazioni e le
 frazioni di Ocre.
 
-<img src="media/image23.jpg"
-style="width:5.21129in;height:3.73507in" />
+<img src="media/image23.jpg">
 
 Figura 22. Idea progettuale della navetta N16, che si innesta alle linee
 C e D alla Stazione di Paganica e serve alternativamente Fossa e
@@ -601,14 +587,12 @@ a Monteluco, con circa 11 corse A/R giornaliere. La seconda collega in
 modo più frequente il Terminal con il Polo di Ingegneria, con 18 corse
 A/R al giorno.
 
-<img src="media/image24.jpg"
-style="width:6.69306in;height:3.38819in" />
+<img src="media/image24.jpg">
 
 Figura 23. Percorso dell’attuale linea AMA 11, indicato con la linea
 nera. In giallo le principali strade.
 
-<img src="media/image25.jpg"
-style="width:6.69306in;height:4.20069in" />
+<img src="media/image25.jpg">
 
 Figura 24. Percorso dell’attuale linea AMA 11A, indicato con la linea
 nera. In giallo le principali strade.
@@ -629,14 +613,12 @@ modificato, in modo da passare vicino al quartiere Bellavista e
 limitrofi, più densamente abitati rispetto all’attuale tratto di
 congiunzione con la Via Mausonia.
 
-<img src="media/image26.jpg"
-style="width:6.43089in;height:4.53945in" />
+<img src="media/image26.jpg">
 
 Figura 25. Idea progettuale della linea E, dorsale del quadrante
 suburbano Sud.
 
-<img src="media/image27.jpg"
-style="width:6.69306in;height:4.2951in" />
+<img src="media/image27.jpg">
 
 Figura 26. Idea progettuale della navetta N11, che si innesta nella
 linea A all’Aquilone e nella linea E a Poggio di Roio, attraversando le
@@ -651,14 +633,12 @@ l’una in direzione Poggio S. Maria-Prata, l’altra verso Foce di Sassa.
 Il servizio è concepito per essere prevalentemente scolastico, in quanto
 al di fuori di questo vengono effettuate pochissime corse.
 
-<img src="media/image28.jpg"
-style="width:6.69306in;height:3.31875in" />
+<img src="media/image28.jpg">
 
 Figura 27. Percorso dell’attuale linea AMA 12, indicato con la linea
 nera. In giallo le principali strade.
 
-<img src="media/image29.jpg"
-style="width:6.69306in;height:3.31875in" />
+<img src="media/image29.jpg">
 
 Figura 28. Percorso dell’attuale linea AMA 12A, indicato con la linea
 nera. In giallo le principali strade.
@@ -671,8 +651,7 @@ alternativamente Prata e Foce. Il percorso è comunque molto lungo, ma
 permette una maggiore efficienza e frequenza rispetto alle attuali
 linee.
 
-<img src="media/image30.jpg"
-style="width:5.08333in;height:5.60498in" />
+<img src="media/image30.jpg">
 
 Figura 29. Idea progettuale della navetta N12, che si innesta nella
 linea A all’Aquilone e collega le frazioni di Sassa.
@@ -688,8 +667,7 @@ Coppito, Coppito, Preturo, Cese, L’Aquilone e torna al Polo di Coppito.
 La linea 15 collega direttamente il Terminal di Collemaggio con la
 frazione di Arischia.
 
-<img src="media/image31.jpg"
-style="width:6.69306in;height:3.31875in" />
+<img src="media/image31.jpg">
 
 Figura 30. Percorso dell’attuale linea AMA 14D, indicato con la linea
 nera. In giallo le principali strade.
@@ -704,14 +682,12 @@ Le linee 13 e 15 potrebbero invece essere unite in una sola linea, la
 transitando per Preturo e il **Polo Universitario di Coppito**, per il
 raccordo con le linee A e F.
 
-<img src="media/image32.jpg"
-style="width:6.69306in;height:3.57639in" />
+<img src="media/image32.jpg">
 
 Figura 31. Idea progettuale della linea F, circolare a doppio senso di
 percorrenza del quadrante Nord-Ovest dell’area suburbana.
 
-<img src="media/image33.jpg"
-style="width:6.69306in;height:3.80625in" />
+<img src="media/image33.jpg">
 
 Figura 32. Idea progettuale della navetta N13/N15, che si innesta nella
 linea A presso il Polo di Coppito e nella linea F anche a Preturo,
@@ -767,8 +743,7 @@ circa 10 minuti**, perché dovrebbe favorire spostamenti rapidi dentro al
 centro, senza necessità di spostarsi con altri mezzi. Una frequenza di
 20 minuti sarebbe utile praticamente solo a fini turistici.
 
-<img src="media/image34.png"
-style="width:6.66667in;height:3.75in" />
+<img src="media/image34.png">
 
 Figura 33. Una idea progettuale per la navetta N1 a servizio del centro
 storico, dedicata all’attraversamento trasversale, poiché il servizio di
@@ -784,8 +759,7 @@ passaggio della linea A proposta. Eventuali integrazioni alla linea
 potrebbero avvenire con navette locali qualora se ne rilevasse il
 bisogno.
 
-<img src="media/image35.jpg"
-style="width:6.69306in;height:3.31875in" />
+<img src="media/image35.jpg">
 
 Figura 34. Percorso dell’attuale linea AMA 19, indicato con la linea
 nera. In giallo le principali strade.
@@ -795,8 +769,7 @@ densa a sufficienza da probabilmente giustificare una navetta apposita.
 Un’idea potrebbe essere una **navetta N2** che colleghi tra loro i
 principali attrattori dell’area, come ad esempio in Figura 35.
 
-<img src="media/image36.jpg"
-style="width:6.34722in;height:3.75694in" />
+<img src="media/image36.jpg">
 
 Figura 35. Idea progettuale della navetta N2, utile a collegare tra loro
 attrattori e collegamenti principali dell’area industriale e commerciale
@@ -882,9 +855,7 @@ Milano in Figura 36. Queste mappe sono utili per i siti web e per essere
 apposte nelle fermate o in punti nodali della città, in formato grande e
 leggibile, nonché sui dépliant turistici.
 
-<img src="media/image37.jpeg"
-style="width:6.69306in;height:4.61347in"
-alt="https://www.milanofree.it/images/stories/trasporti/mappa-metro-milano-2023.jpg" />
+<img src="media/image37.jpeg">
 
 Figura 36. Esempio di mappa stilizzata di linee metropolitane della
 città di Milano.
@@ -908,8 +879,7 @@ convenzionali accanto al nome della fermata. Nella parte sottostante la
 barra delle fermate si indicano le stazioni in cui si possono effettuare
 i **cambi con altre linee metropolitane o con altri mezzi extraurbani**.
 
-<img src="media/image38.JPG"
-style="width:6.69259in;height:3.76458in" />
+<img src="media/image38.JPG">
 
 Figura 37. Esempio di rappresentazione grafica lineare degli itinerari
 dei bus a bordo dei mezzi, di solito poste in alto sopra le porte di
@@ -976,8 +946,7 @@ riepilogo complessivo di tutte le linee proposte è riportato in
 Tabella 1. Il dettaglio con le navette è diviso nei due quadranti Est
 (Figura 39) e Ovest (Figura 40).
 
-<img src="media/image39.jpg"
-style="width:5.94926in;height:3.34646in" />
+<img src="media/image39.jpg">
 
 Figura 38. Mappa delle sei linee principali della proposta (linee A-F),
 che permettono di connettere in modo continuo e frequente l’area urbana
@@ -999,13 +968,11 @@ dell’AMA, tant’è vero che dal conto preliminare delle corse al giorno e
 dei chilometri percorsi in un anno **si andrebbe a risparmiare pur
 erogando un servizio molto più efficiente ed utilizzabile**.
 
-<img src="media/image40.jpg"
-style="width:5.94967in;height:3.34646in" />
+<img src="media/image40.jpg">
 
 Figura 39. Mappa complessiva delle linee nel quadrante Est.
 
-<img src="media/image41.jpg"
-style="width:5.94967in;height:3.34646in" />
+<img src="media/image41.jpg">
 
 Figura 40. Mappa complessiva delle linee nel quadrante Ovest.
 
