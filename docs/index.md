@@ -28,19 +28,13 @@ layout: default
 
 Apri ChatGPT, Gemini, Claude o la tua IA preferita e incolla questo prompt (o modificalo come vuoi):
 
-<div style="background:#fff8e1; border-left:5px solid #f9a825; padding:12px 16px; margin:16px 0;">
+<div style="background:#e8f5e9; border-left:5px solid #43a047; padding:12px 16px; margin:16px 0;">
 Se si realizzasse la proposta di riorganizzazione delle linee di trasporto pubblico all'Aquila esposta su
 https://gabricurciaq.github.io/proposta-linee-ama-laquila/ , ci sarebbe un reale vantaggio in termini di tempo medio di attesa alla
 fermata e di percorrenza rispetto al servizio attuale AMA (https://www.ama.laquila.it/linee-e-orari/elenco-linee-ama/)?
 Mi interessa valutare, in particolare, le differenze sulla tratta: [INSERISCI QUI LA TUA TRATTA, es. Pettino - Centro, oppure Terminal Collemaggio - Ospedale / Coppito]
 </div>
 
-```
-“Se si realizzasse la proposta di riorganizzazione delle linee di trasporto pubblico all'Aquila esposta su
-https://gabricurciaq.github.io/proposta-linee-ama-laquila/ , ci sarebbe un reale vantaggio in termini di tempo medio di attesa alla
-fermata e di percorrenza rispetto al servizio attuale AMA (https://www.ama.laquila.it/linee-e-orari/elenco-linee-ama/)?
-Mi interessa valutare, in particolare, le differenze sulla tratta: [INSERISCI QUI LA TUA TRATTA, es. Pettino - Centro, oppure Terminal Collemaggio - Ospedale / Coppito]”
-```
 HAI NOTATO CRITICITÀ O HAI IDEE PER MIGLIORARLA?
 
 Il nuovo assetto deve funzionare al meglio per tutta la comunità. Dopo aver fatto il test con l'IA:
